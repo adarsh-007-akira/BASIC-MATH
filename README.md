@@ -1,2 +1,7 @@
 # BASIC-MATH
-This Repository currently have 5 Programs, Factorial, Compound Interest, Armstrong Numbers, Prime Number in a range, Prime Number 
+This Project currently have 5 Programs 
+1. Factorial
+2. Compound Interest 
+3. Armstrong Numbers
+4. Prime Number in a range
+5. Prime Number 
